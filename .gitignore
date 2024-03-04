@@ -1,2 +1,4 @@
 target/**
 kernel7.img
+rpi/**
+build/**
